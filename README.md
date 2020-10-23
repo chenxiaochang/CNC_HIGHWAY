@@ -4,7 +4,7 @@ use the DRL models to the highway_env
 ## usages
 `pip install --user git+https://github.com/chenxiaochang/CNC_Rl-agents`
 
-the details are the same with the author
+### The details are the same with the author
 
 # rl-agents
 
