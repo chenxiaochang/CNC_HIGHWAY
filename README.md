@@ -1,5 +1,5 @@
 # CNC_Rl-agents
-use the DRL models to the highway_env 
+Use these RL agents to the highway_env and update some details. 
 
 ## usages
 `pip install --user git+https://github.com/chenxiaochang/CNC_Rl-agents`
