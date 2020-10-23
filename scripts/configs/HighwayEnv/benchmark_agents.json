@@ -1,0 +1,8 @@
+{
+    "environments": ["configs/HighwayEnv/env_obs_attention.json"],
+    "agents": [
+        "configs/HighwayEnv/agents/DQNAgent/ddqn.json",
+        "configs/HighwayEnv/agents/DQNAgent/ego_attention.json"
+      
+    ]
+}

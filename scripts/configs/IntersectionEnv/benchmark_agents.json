@@ -1,0 +1,8 @@
+{
+    "environments": ["configs/IntersectionEnv/env.json"],
+    "agents": [
+        "configs/IntersectionEnv/agents/DQNAgent/baseline.json",
+        "configs/IntersectionEnv/agents/DQNAgent/ego_attention_2h.json"
+      
+    ]
+}

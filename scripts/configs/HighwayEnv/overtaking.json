@@ -1,0 +1,9 @@
+{
+    "id": "overtaking-v0",
+    "import_module": "highway_env",
+    "screen_height": 400,
+    "observation": {
+        "type": "TimeToCollision",
+        "horizon": 5
+    }
+}
